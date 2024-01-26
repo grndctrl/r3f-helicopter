@@ -1,4 +1,4 @@
-import { Box, Plane } from "@react-three/drei";
+import { Box } from "@react-three/drei";
 import { RigidBody } from "@react-three/rapier";
 
 // type TerrainProps = {
