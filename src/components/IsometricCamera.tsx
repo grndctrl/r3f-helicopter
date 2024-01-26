@@ -37,7 +37,7 @@ const IsometricCamera = forwardRef<OrthographicCamera, IsometricCameraProps>(
       near = 0,
       offset = 48,
       zoom = 32,
-      makeDefault = false,
+      // makeDefault = false,
       helper = false,
     },
     ref
